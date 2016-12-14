@@ -1,7 +1,9 @@
 # Bike-Sharing-Demand-Prediction
 -----------------------------------------
 Institute of Computer Science and Technology @Peking University
+
 This assignment is one of our big-homework of the SAS course
+
 To use SAS and ML-tools to join a big data competition
 
 
