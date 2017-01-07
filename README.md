@@ -16,4 +16,4 @@ we use 4-fold cross_validation as well as feature selection in the training stag
 
 Usage:
 =====
-When you already build a python2.7 & sklearn lib environment, then you just run predict.py to get the result in /result/result.csv
+When you already build a python2.7 & sklearn lib environment, then you just run ‘predict.py’ to get the result in ‘/result/result.csv’
